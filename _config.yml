@@ -33,5 +33,5 @@ descriptions:
   - cat: jekyll
     desc: "Posts describing Jekyll setup techniques."
 
-  - cat: dummy
-    desc: "Just some placeholder posts, lorem ipsum and the rest."
+  - cat: showchat
+    desc: "Comunitatea ShowChat Romania."
